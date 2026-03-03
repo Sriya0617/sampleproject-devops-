@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello from Docker!\n");
+    printf("Message from Docker container!\n");
     return 0;
 }
